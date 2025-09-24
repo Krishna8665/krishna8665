@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Khatri</h1>
-<h3 align="center">Computer Engineer</h3>
+<h3 align="center">Bachelor in Computer Engineering</h3>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
 ---
