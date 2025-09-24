@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Khatri</h1>
+<h3 align="center">Computer Engineer</h3>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
 ---
@@ -13,6 +14,11 @@
   <!-- Email -->
   <a href="mailto:khatrikrissna11@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Figma -->
+  <a href="https://www.figma.com/@krishna-khatri" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" height="30" width="40"/>
   </a>
 </p>
 
@@ -31,6 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
