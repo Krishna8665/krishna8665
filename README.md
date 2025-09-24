@@ -17,10 +17,7 @@
   </a>
   &nbsp;&nbsp;
   <!-- Figma -->
-  <a href="https://www.figma.com/@krishna-khatri" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" height="30" width="40"/>
-  </a>
-</p>
+  </p>
 
 ---
 
